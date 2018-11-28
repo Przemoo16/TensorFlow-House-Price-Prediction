@@ -4,7 +4,7 @@ Neural network for predicting house prices in Tensorflow.
 
 ## Info about dataset
 
-* [Titanic Data Set](https://www.kaggle.com/c/titanic/data)
+* [House Price Data Set](https://www.kaggle.com/apratim87/housingdata)
 
 ### Linear regression algorithm
 
