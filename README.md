@@ -1,10 +1,10 @@
-# Tensorflow House Price Prediction
+# Tensorflow Housing Prices Prediction
 
 Neural network for predicting house prices in Tensorflow.
 
 ## Info about dataset
 
-* [House Price Data Set](https://www.kaggle.com/apratim87/housingdata)
+* [Housing Prices Data Set](https://www.kaggle.com/apratim87/housingdata)
 
 ### Linear regression algorithm
 
