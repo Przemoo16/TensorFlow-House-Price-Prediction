@@ -1,21 +1,23 @@
-# Tensorflow Titanic Survivors Classification
+# Tensorflow House Price Prediction
 
-Some algorithms for Titanic survivors classification.
+Neural network for predicting house prices in Tensorflow.
 
 ## Info about dataset
 
 * [Titanic Data Set](https://www.kaggle.com/c/titanic/data)
 
-### Network architecture
+### Linear regression algorithm
 
 ![Network architecture](/linear_regression.png)
 
 ## Requirements
 
+* [Tensorflow](https://www.tensorflow.org) - Deep learning framework
 * [Scikit-Learn](https://scikit-learn.org/stable/) - Data mining and data analysis library
 * [Numpy](http://www.numpy.org) - Library to computation on arrays
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Seaborn](https://seaborn.pydata.org) - Data visualization library based on matplotlib
+* [Matplotlib](https://matplotlib.org) - Plotting library
 
 ## Author
 
