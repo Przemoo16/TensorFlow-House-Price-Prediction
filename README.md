@@ -1,6 +1,7 @@
-# Tensorflow Housing Prices Prediction
+# Overview
 
-Neural network for predicting house prices in Tensorflow.
+Linear regression algorithm for predicting house prices in Tensorflow.
+We train model on "Housing Prices Data Set". Algorithm only takes into account the average number of rooms per dwelling and predict house price. 
 
 ## Info about dataset
 
