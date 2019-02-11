@@ -1,6 +1,6 @@
 # Overview
 
-Linear regression algorithm for predicting house prices in Tensorflow.
+Linear regression algorithm for predicting house prices in TensorFlow.
 We train model on "USA Housing Prices Data Set".
 
 ## Info about dataset
@@ -13,7 +13,7 @@ We train model on "USA Housing Prices Data Set".
 
 ## Requirements
 
-* [Tensorflow](https://www.tensorflow.org) - Deep learning framework
+* [TensorFlow](https://www.tensorflow.org) - Deep learning framework
 * [Numpy](http://www.numpy.org) - Package for scientific computing
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Seaborn](https://seaborn.pydata.org) - Data visualization library based on matplotlib
