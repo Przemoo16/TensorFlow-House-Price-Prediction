@@ -9,7 +9,7 @@ We train model on "USA Housing Prices Data Set".
 
 ### Linear regression algorithm
 
-![Network architecture](/linear_regression.png)
+![Network architecture](./Images/linear_regression.png)
 
 ## Requirements
 
