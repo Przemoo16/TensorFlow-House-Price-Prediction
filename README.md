@@ -13,7 +13,7 @@ We train model on "USA Housing Prices Data Set".
 
 ## Requirements
 
-* [TensorFlow](https://www.tensorflow.org) - Deep learning framework
+* [TensorFlow](https://www.tensorflow.org) - Deep learning framework (version 1.12)
 * [Numpy](http://www.numpy.org) - Package for scientific computing
 * [Pandas](https://pandas.pydata.org) - Data analysis library
 * [Seaborn](https://seaborn.pydata.org) - Data visualization library based on matplotlib
